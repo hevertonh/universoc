@@ -1,0 +1,72 @@
+alterar foto
+Olá Heverton,
+seja bem-vindo ao SoftwareRH!
+Hoje é dia: Sexta-feira - 24/3/2017Agora são: 16:56
+
+
+Criar Empresa
+Criar Vaga
+Criar Candidato
+Pesquisar Candidato
+
+Painel Administrativo
+Painel Gráficos
+Painel Estatísticas
+
+Candidatos
+
+
+Mensagens Fale Conosco - API 0
+
+
+Meus compromissos e lembretes futuros
+
+
+Vagas em Aberto - últimas 10
+
+
+Notificações 0
+
+
+Contatos Rápidos
+
+
+Ocorrências
+
+
+Totalizadores de Vagas e Currículos
+
+
+Logs
+
+
+
+
+	
+Plano Ouro
+Plano Prata
+Contas de Usuários	A definir	6 usuários
+Número limite de currículos	Sem limites	50.000 currículos
+Número limite de vagas	Sem limites	10.000
+Quadro de vagas em seu site personalizado com seu logo e suas cores		
+Cadastro de currículos em seu site		
+Suporte por e-mail, telefone e MSN 24h por dia e 7 dias por semana		
+Relatórios gerenciais e estatísticos		
+Mais de 15 gráficos gerenciais		
+Vídeos de treinamento em todas as telas		
+Agendamento online de entrevistas		
+Envio de cv´s para o cliente no formato pdf		
+Relatórios customizáveis		
+Os currículos cadastrados são exclusivos da sua empresa		
+Mural / Notificações internas da empresa		
+Registro de todas as ocorrências com Vagas e Candidatos		
+Exportação de currículo para PDF e personalizar impressão em HTML		
+Backup Diário		
+Pacote de melhorias mensal sem nenhum custo		
+Envio e histórico de Torpedo SMS***		
+Gerenciar permissão de tela e operações(inserir,excluir...) por usuário		
+Empresas clientes cadastram vagas e acompanham processo seletivo		
+Empresas clientes validam candidatos		
+Anexo de currículos em PDF e DOC		
+Importação de dados sem nenhum custo (1x)		
+Gerenciamento de Matriz e Filiais		
